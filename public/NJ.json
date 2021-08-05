@@ -1,0 +1,78 @@
+{
+    "RECORDS": [
+        {
+            "name":"重钢年鉴",
+            "CallNumber":"7-5364-3668-8",
+            "ResponsiblePerson":"重钢年鉴编辑委员会[编]",
+            "press":"四川科学技术出版社",
+           "date": "1997年"
+          }, {
+             "name":"地方综合年鉴编纂教程",
+            "CallNumber":"978-7-5144-1947-4",
+            "ResponsiblePerson":"杨军仕，王守亚等著",
+            "press":"方志出版社",
+           "date": "2016年"
+          }, {
+            "name":"地方年鉴编纂与研究",
+            "CallNumber":"7-218-00958-1",
+            "ResponsiblePerson":"《广州年鉴》编辑部编",
+            "press":"广东人民出版社",
+           "date": "1992年"
+          }, {
+            "name":"年鉴学概论",
+            "CallNumber":"7-5068-0079-9",
+            "ResponsiblePerson":"肖东发等著",
+            "press":"中国书籍出版社",
+           "date": "1991年"
+          },{
+ "name":"年鉴编纂百议",
+            "CallNumber":"978-7-80528-342-5",
+            "ResponsiblePerson":"王秀山编",
+            "press":"吉林文史出版社",
+           "date": "2009年11月"
+          },{
+ "name":"《上海年鉴(1854)》研究",
+            "CallNumber":"978-7-5458-1276-3",
+            "ResponsiblePerson":"上海市地方志办公室编",
+            "press":"上海书店出版社",
+           "date": "2016年"
+          },{
+             "name":"会昌年鉴",
+            "CallNumber":"7-101-02341-X",
+            "ResponsiblePerson":"会昌年鉴编纂委员会编",
+            "press":"中华书局",
+           "date": "1999年"
+          },{
+             "name":"江西年鉴",
+            "CallNumber":"978-7-80122-896-3",
+            "ResponsiblePerson":"《江西年鉴》编辑委员会编",
+            "press":"方志出版社",
+           "date": "2002年"
+          },{
+             "name":"江西年鉴",
+            "CallNumber":"7-80192-122-4",
+            "ResponsiblePerson":"《江西年鉴》编辑委员会编",
+            "press":"方志出版社",
+           "date": "2003年"
+          },{
+             "name":"江西年鉴",
+            "CallNumber":"7-80192-419-3",
+            "ResponsiblePerson":"《江西年鉴》编辑委员会编",
+            "press":"方志出版社",
+           "date": "2004年"
+          },{
+             "name":"江西年鉴",
+            "CallNumber":"7-80192-702-8",
+            "ResponsiblePerson":"《江西年鉴》编辑委员会编",
+            "press":"方志出版社",
+           "date": "2005年"
+          },{
+             "name":"江西年鉴",
+            "CallNumber":"7-80707-524-4",
+            "ResponsiblePerson":"《江西年鉴》编辑委员会编",
+            "press":"黄山书社",
+           "date": "2006年"
+          }
+       
+    ]
+}

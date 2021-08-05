@@ -1,0 +1,1012 @@
+{
+"RECORDS":[
+{
+"id":"00000",
+"name":"系统主页面",
+"createDate":"2017-9-26 08:00:10",
+"address":"/index",
+"status":"正常"
+},
+{
+"id":"00001",
+"name":"主页内部首页",
+"createDate":"2017-9-26 08:01:00",
+"address":"/home.jsp",
+"status":"正常"
+},
+{
+"id":"100100",
+"name":"角色类型管理",
+"createDate":"2017-9-26 08:03:30",
+"address":"/actorType/actorType",
+"status":"正常"
+},
+{
+"id":"100101",
+"name":"角色类型新增",
+"createDate":"2017-9-26 08:05:59",
+"address":"/actorType/add",
+"status":"正常"
+},
+{
+"id":"100102",
+"name":"角色类型修改",
+"createDate":"2017-9-26 08:06:32",
+"address":"/actorType/edit",
+"status":"正常"
+},
+{
+"id":"100103",
+"name":"角色类型删除",
+"createDate":"2017-9-26 08:07:03",
+"address":"/actorType/del",
+"status":"正常"
+},
+{
+"id":"100104",
+"name":"角色类型批量删除",
+"createDate":"2017-9-26 08:07:55",
+"address":"/actorType/deleteAll",
+"status":"正常"
+},
+{
+"id":"100105",
+"name":"角色类型查找",
+"createDate":"2017-9-26 08:08:56",
+"address":"/actorType/find",
+"status":"正常"
+},
+{
+"id":"100106",
+"name":"角色类型分页查找",
+"createDate":"2017-9-26 08:10:31",
+"address":"/actorType/findByPage",
+"status":"正常"
+},
+{
+"id":"100107",
+"name":"角色类型导出",
+"createDate":"2017-9-26 08:11:44",
+"address":"/actorType/loadout",
+"status":"正常"
+},
+{
+"id":"100108",
+"name":"角色类型批量导入",
+"createDate":"2017-9-26 08:13:05",
+"address":"/actorType/loadData",
+"status":"正常"
+},
+{
+"id":"100109",
+"name":"角色类型单个实体获取",
+"createDate":"2017-9-26 08:13:50",
+"address":"/actorType/getMe",
+"status":"正常"
+},
+{
+"id":"100110",
+"name":"角色类型管理",
+"createDate":"2017-9-28 22:25:35",
+"address":"/actorType/actorType",
+"status":"正常"
+},
+{
+"id":"100200",
+"name":"角色综合管理",
+"createDate":"2017-9-26 09:04:46",
+"address":"/jsp/system/actorManage.jsp",
+"status":"正常"
+},
+{
+"id":"100201",
+"name":"角色新增",
+"createDate":"2017-9-26 09:05:14",
+"address":"/actor/add",
+"status":"正常"
+},
+{
+"id":"100202",
+"name":"角色信息修改",
+"createDate":"2017-9-26 09:06:56",
+"address":"/actor/edit",
+"status":"正常"
+},
+{
+"id":"100203",
+"name":"角色删除",
+"createDate":"2017-9-26 09:07:49",
+"address":"/actor/del",
+"status":"正常"
+},
+{
+"id":"100204",
+"name":"角色信息查找-树形结构",
+"createDate":"2017-9-26 09:08:35",
+"address":"/actor/findTree",
+"status":"正常"
+},
+{
+"id":"100205",
+"name":"角色授权操作",
+"createDate":"2017-9-26 09:09:05",
+"address":"/actor/setPower",
+"status":"正常"
+},
+{
+"id":"100206",
+"name":"角色权限获取",
+"createDate":"2017-9-26 09:09:34",
+"address":"/actor/getPower",
+"status":"正常"
+},
+{
+"id":"100207",
+"name":"角色授权页面",
+"createDate":"2017-9-26 09:54:09",
+"address":"/jsp/system/actorMapPower.jsp",
+"status":"正常"
+},
+{
+"id":"100208",
+"name":"角色查找",
+"createDate":"2017-9-26 11:06:18",
+"address":"/actor/find",
+"status":"正常"
+},
+{
+"id":"100209",
+"name":"角色对象获取",
+"createDate":"2017-9-26 12:33:53",
+"address":"/actor/getMe",
+"status":"正常"
+},
+{
+"id":"100210",
+"name":"角色综合管理",
+"createDate":"2017-9-28 22:24:21",
+"address":"/jsp/system/actorManage.jsp",
+"status":"正常"
+},
+{
+"id":"100300",
+"name":"用户管理",
+"createDate":"2017-9-26 10:26:24",
+"address":"/jsp/system/UserManage.jsp",
+"status":"正常"
+},
+{
+"id":"100301",
+"name":"用户新增",
+"createDate":"2017-9-26 10:26:55",
+"address":"/user/add",
+"status":"正常"
+},
+{
+"id":"100302",
+"name":"用户信息修改",
+"createDate":"2017-9-26 10:29:24",
+"address":"/user/edit",
+"status":"正常"
+},
+{
+"id":"100303",
+"name":"用户删除",
+"createDate":"2017-9-26 10:30:16",
+"address":"/user/del",
+"status":"正常"
+},
+{
+"id":"100304",
+"name":"用户批量删除",
+"createDate":"2017-9-26 10:31:07",
+"address":"/user/deleteAll",
+"status":"正常"
+},
+{
+"id":"100305",
+"name":"用户信息分页查找",
+"createDate":"2017-9-26 10:32:13",
+"address":"/user/findByPage",
+"status":"正常"
+},
+{
+"id":"100306",
+"name":"用户信息导出",
+"createDate":"2017-9-26 10:37:20",
+"address":"/user/loadout",
+"status":"正常"
+},
+{
+"id":"100307",
+"name":"用户对象获取",
+"createDate":"2017-9-26 10:34:43",
+"address":"/user/getMe",
+"status":"正常"
+},
+{
+"id":"100308",
+"name":"用户登录",
+"createDate":"2017-9-26 10:35:41",
+"address":"/user/login",
+"status":"正常"
+},
+{
+"id":"100309",
+"name":"用户退出",
+"createDate":"2017-9-26 10:38:36",
+"address":"/user/logout",
+"status":"正常"
+},
+{
+"id":"100310",
+"name":"用户密码修改",
+"createDate":"2017-9-26 10:39:11",
+"address":"/user/changePwd",
+"status":"正常"
+},
+{
+"id":"100311",
+"name":"用户密码初始化",
+"createDate":"2017-9-26 10:39:34",
+"address":"/user/initPassword",
+"status":"正常"
+},
+{
+"id":"100312",
+"name":"用户状态变更",
+"createDate":"2017-9-26 10:40:07",
+"address":"/user/setUserState",
+"status":"正常"
+},
+{
+"id":"100313",
+"name":"用户角色分配",
+"createDate":"2017-9-26 10:45:17",
+"address":"/user/setActor",
+"status":"正常"
+},
+{
+"id":"100314",
+"name":"用户角色查找",
+"createDate":"2017-9-26 10:46:02",
+"address":"/user/findActor",
+"status":"正常"
+},
+{
+"id":"100315",
+"name":"用户被迫下线",
+"createDate":"2017-9-26 10:46:54",
+"address":"/user/removeUser",
+"status":"正常"
+},
+{
+"id":"100316",
+"name":"用户在线监控",
+"createDate":"2017-9-26 10:47:32",
+"address":"/user/watchOnline",
+"status":"正常"
+},
+{
+"id":"100317",
+"name":"用户在线监控管理界面",
+"createDate":"2017-9-26 10:49:29",
+"address":"/jsp/system/userWatchOnline.jsp",
+"status":"正常"
+},
+{
+"id":"100318",
+"name":"用户管理",
+"createDate":"2017-9-28 22:28:06",
+"address":"/jsp/system/UserManage.jsp",
+"status":"正常"
+},
+{
+"id":"100400",
+"name":"系统菜单管理",
+"createDate":"2017-9-26 10:51:00",
+"address":"/systemMenu/index",
+"status":"正常"
+},
+{
+"id":"100401",
+"name":"系统菜单新增",
+"createDate":"2017-9-26 10:52:15",
+"address":"/systemMenu/add",
+"status":"正常"
+},
+{
+"id":"100402",
+"name":"系统菜单修改",
+"createDate":"2017-9-26 10:53:11",
+"address":"/systemMenu/edit",
+"status":"正常"
+},
+{
+"id":"100403",
+"name":"系统菜单删除",
+"createDate":"2017-9-26 10:53:36",
+"address":"/systemMenu/del",
+"status":"正常"
+},
+{
+"id":"100404",
+"name":"系统菜单查找",
+"createDate":"2017-9-26 10:54:12",
+"address":"/systemMenu/find",
+"status":"正常"
+},
+{
+"id":"100405",
+"name":"系统菜单树形结构查找",
+"createDate":"2017-9-26 10:54:45",
+"address":"/systemMenu/findTree",
+"status":"正常"
+},
+{
+"id":"100406",
+"name":"系统菜单对象获取",
+"createDate":"2017-9-26 10:56:15",
+"address":"/systemMenu/getMe",
+"status":"正常"
+},
+{
+"id":"100407",
+"name":"系统权限编辑页面",
+"createDate":"2017-9-26 12:34:48",
+"address":"/jsp/system/systemMenu/systemMenu.jsp",
+"status":"正常"
+},
+{
+"id":"100408",
+"name":"系统菜单管理",
+"createDate":"2017-9-28 22:27:13",
+"address":"/systemMenu/index",
+"status":"正常"
+},
+{
+"id":"100500",
+"name":"数据词典管理",
+"createDate":"2017-9-26 19:22:37",
+"address":"/dictionary/index",
+"status":"正常"
+},
+{
+"id":"100501",
+"name":"数据词典新增",
+"createDate":"2017-9-26 19:23:39",
+"address":"/dictionary/add",
+"status":"正常"
+},
+{
+"id":"100502",
+"name":"数据词典修改",
+"createDate":"2017-9-26 19:24:02",
+"address":"/dictionary/edit",
+"status":"正常"
+},
+{
+"id":"100503",
+"name":"数据词典删除",
+"createDate":"2017-9-26 19:24:26",
+"address":"/dictionary/del",
+"status":"正常"
+},
+{
+"id":"100504",
+"name":"数据词典树形查找",
+"createDate":"2017-9-26 19:25:08",
+"address":"/dictionary/findTree",
+"status":"正常"
+},
+{
+"id":"100505",
+"name":"数据词典查找",
+"createDate":"2017-9-26 19:25:30",
+"address":"/dictionary/find",
+"status":"正常"
+},
+{
+"id":"100506",
+"name":"数据词典单个对象获取",
+"createDate":"2017-9-26 19:25:57",
+"address":"/dictionary/getMe",
+"status":"正常"
+},
+{
+"id":"100507",
+"name":"数据词典页面编辑",
+"createDate":"2017-9-26 19:27:39",
+"address":"/jsp/system/dictionary/dictionary.jsp",
+"status":"正常"
+},
+{
+"id":"100508",
+"name":"数据词典管理",
+"createDate":"2017-9-27 08:22:52",
+"address":"/dictionary/index",
+"status":"正常"
+},
+{
+"id":"100600",
+"name":"组织机构管理",
+"createDate":"2017-9-26 23:01:43",
+"address":"/org/index",
+"status":"正常"
+},
+{
+"id":"100601",
+"name":"组织机构新增",
+"createDate":"2017-9-26 23:02:16",
+"address":"/org/add",
+"status":"正常"
+},
+{
+"id":"100602",
+"name":"组织机构修改",
+"createDate":"2017-9-27 07:54:39",
+"address":"/org/edit",
+"status":"正常"
+},
+{
+"id":"100603",
+"name":"组织机构删除",
+"createDate":"2017-9-27 08:04:21",
+"address":"/org/del",
+"status":"正常"
+},
+{
+"id":"100604",
+"name":"组织机构查找",
+"createDate":"2017-9-27 08:05:07",
+"address":"/org/find",
+"status":"正常"
+},
+{
+"id":"100605",
+"name":"组织机构树形结构显示",
+"createDate":"2017-9-27 08:08:14",
+"address":"/org/findTree",
+"status":"正常"
+},
+{
+"id":"100606",
+"name":"组织机构页面编辑",
+"createDate":"2017-9-27 08:09:12",
+"address":"/jsp/system/organization/organization.jsp",
+"status":"正常"
+},
+{
+"id":"100607",
+"name":"组织机构对象获取",
+"createDate":"2017-9-27 08:38:17",
+"address":"/org/getMe",
+"status":"正常"
+},
+{
+"id":"100608",
+"name":"组织机构管理",
+"createDate":"2017-9-28 22:26:26",
+"address":"/org/index",
+"status":"正常"
+},
+{
+"id":"100700",
+"name":"网站或频道管理",
+"createDate":"2017-10-12 22:07:14",
+"address":"webSite/index",
+"status":"正常"
+},
+{
+"id":"100701",
+"name":"网站或频道综合管理",
+"createDate":"2017-10-12 22:08:07",
+"address":"/webSite/index",
+"status":"正常"
+},
+{
+"id":"100702",
+"name":"新增",
+"createDate":"2017-10-12 22:08:39",
+"address":"/webSite/add",
+"status":"正常"
+},
+{
+"id":"100703",
+"name":"修改",
+"createDate":"2017-10-12 22:09:00",
+"address":"/webSite/edit",
+"status":"正常"
+},
+{
+"id":"100704",
+"name":"删除",
+"createDate":"2017-10-12 22:09:43",
+"address":"/webSite/del",
+"status":"正常"
+},
+{
+"id":"100705",
+"name":"分页查找",
+"createDate":"2017-10-12 22:10:26",
+"address":"/webSite/findByPage",
+"status":"正常"
+},
+{
+"id":"100706",
+"name":"对象获取",
+"createDate":"2017-10-12 22:11:14",
+"address":"/webSite/getMe",
+"status":"正常"
+},
+{
+"id":"100707",
+"name":"单位网站页面编辑",
+"createDate":"2017-10-12 22:12:33",
+"address":"/jsp/web/website/website.jsp",
+"status":"正常"
+},
+{
+"id":"100708",
+"name":"批量删除",
+"createDate":"2017-10-12 22:15:59",
+"address":"/webSite/deleteAll",
+"status":"正常"
+},
+{
+"id":"100709",
+"name":"查找",
+"createDate":"2017-10-16 20:51:18",
+"address":"/webSite/find",
+"status":"正常"
+},
+{
+"id":"100801",
+"name":"公告管理",
+"createDate":"2017-10-30 20:04:17",
+"address":"/annoucement",
+"status":"正常"
+},
+{
+"id":"100802",
+"name":"公告管理主界面",
+"createDate":"2017-10-30 20:06:43",
+"address":"/announcement/index",
+"status":"正常"
+},
+{
+"id":"100803",
+"name":"新增",
+"createDate":"2017-10-30 20:07:05",
+"address":"/announcement/add",
+"status":"正常"
+},
+{
+"id":"100804",
+"name":"修改",
+"createDate":"2017-10-30 20:07:46",
+"address":"/announcement/edit",
+"status":"正常"
+},
+{
+"id":"100805",
+"name":"删除",
+"createDate":"2017-10-30 20:08:05",
+"address":"/announcement/del",
+"status":"正常"
+},
+{
+"id":"100806",
+"name":"批量删除",
+"createDate":"2017-10-30 20:08:34",
+"address":"/announcement/deleteAll",
+"status":"正常"
+},
+{
+"id":"100807",
+"name":"查找",
+"createDate":"2017-10-30 20:09:04",
+"address":"/announcement/find",
+"status":"正常"
+},
+{
+"id":"100810",
+"name":"分页查找",
+"createDate":"2017-10-30 20:09:21",
+"address":"/announcement/findByPage",
+"status":"正常"
+},
+{
+"id":"100811",
+"name":"公告编辑",
+"createDate":"2017-10-30 20:15:29",
+"address":"/jsp/web/announcement/announcement.jsp",
+"status":"正常"
+},
+{
+"id":"100812",
+"name":"公告对象获取",
+"createDate":"2017-10-30 20:24:18",
+"address":"/announcement/getMe",
+"status":"正常"
+},
+{
+"id":"100900",
+"name":"通知管理",
+"createDate":"2017-10-30 21:14:55",
+"address":"/notice",
+"status":"正常"
+},
+{
+"id":"100901",
+"name":"通知综合管理界面",
+"createDate":"2017-10-30 21:15:47",
+"address":"/notice/index",
+"status":"正常"
+},
+{
+"id":"100902",
+"name":"新增",
+"createDate":"2017-10-30 21:16:06",
+"address":"/notice/add",
+"status":"正常"
+},
+{
+"id":"100903",
+"name":"修改",
+"createDate":"2017-10-30 21:16:41",
+"address":"/notice",
+"status":"正常"
+},
+{
+"id":"100904",
+"name":"删除",
+"createDate":"2017-10-30 21:16:58",
+"address":"/notice/del",
+"status":"正常"
+},
+{
+"id":"100905",
+"name":"批量删除",
+"createDate":"2017-10-30 21:17:25",
+"address":"/notice/deleteAll",
+"status":"正常"
+},
+{
+"id":"100906",
+"name":"查找",
+"createDate":"2017-10-30 21:17:54",
+"address":"/notice/find",
+"status":"正常"
+},
+{
+"id":"100907",
+"name":"分页查找",
+"createDate":"2017-10-30 21:18:18",
+"address":"/notice/findByPage",
+"status":"正常"
+},
+{
+"id":"100908",
+"name":"单个对象获取",
+"createDate":"2017-10-30 21:18:43",
+"address":"/notice/getMe",
+"status":"正常"
+},
+{
+"id":"100909",
+"name":"通知界面维护",
+"createDate":"2017-10-30 21:19:38",
+"address":"/jsp/web/notice/Notice.jsp",
+"status":"正常"
+},
+{
+"id":"101000",
+"name":"协会单位管理",
+"createDate":"2017-10-30 21:20:25",
+"address":"/corporation",
+"status":"正常"
+},
+{
+"id":"101001",
+"name":"协会单位管理界面",
+"createDate":"2017-10-30 21:21:29",
+"address":"/corporation/index",
+"status":"正常"
+},
+{
+"id":"101002",
+"name":"新增",
+"createDate":"2017-10-30 21:21:55",
+"address":"/corporation/add",
+"status":"正常"
+},
+{
+"id":"101003",
+"name":"修改",
+"createDate":"2017-10-30 21:23:33",
+"address":"/corporation/edit",
+"status":"正常"
+},
+{
+"id":"101004",
+"name":"删除",
+"createDate":"2017-10-30 21:23:57",
+"address":"/corporation/del",
+"status":"正常"
+},
+{
+"id":"101005",
+"name":"批量删除",
+"createDate":"2017-10-30 21:24:16",
+"address":"/corporation/deleteAll",
+"status":"正常"
+},
+{
+"id":"101006",
+"name":"查找",
+"createDate":"2017-10-30 21:24:39",
+"address":"/corporation/find",
+"status":"正常"
+},
+{
+"id":"101007",
+"name":"分页查找",
+"createDate":"2017-10-30 21:25:02",
+"address":"/corporation/findByPage",
+"status":"正常"
+},
+{
+"id":"101008",
+"name":"单个对象获取",
+"createDate":"2017-10-30 21:25:36",
+"address":"/corporation/getMe",
+"status":"正常"
+},
+{
+"id":"101009",
+"name":"协会单位界面维护",
+"createDate":"2017-10-30 21:26:40",
+"address":"/jsp/web/corporation/corporation.jsp",
+"status":"正常"
+},
+{
+"id":"101100",
+"name":"新闻信息综合管理",
+"createDate":"2017-11-3 21:22:34",
+"address":"/news",
+"status":"正常"
+},
+{
+"id":"101101",
+"name":"新闻综合管理界面",
+"createDate":"2017-11-3 21:23:14",
+"address":"/news/index",
+"status":"正常"
+},
+{
+"id":"101102",
+"name":"新闻发布发布",
+"createDate":"2017-11-3 21:23:49",
+"address":"/news/saveNews",
+"status":"正常"
+},
+{
+"id":"101103",
+"name":"新闻修改",
+"createDate":"2017-11-3 21:24:11",
+"address":"/news/updateNews",
+"status":"正常"
+},
+{
+"id":"101104",
+"name":"新闻删除",
+"createDate":"2017-11-3 21:24:44",
+"address":"/news/del",
+"status":"正常"
+},
+{
+"id":"101105",
+"name":"新闻批量删除",
+"createDate":"2017-11-3 21:25:26",
+"address":"/news/deleteAll",
+"status":"正常"
+},
+{
+"id":"101106",
+"name":"单个对象获取",
+"createDate":"2017-11-3 21:25:58",
+"address":"/news/getMe",
+"status":"正常"
+},
+{
+"id":"101107",
+"name":"查找",
+"createDate":"2017-11-3 21:26:24",
+"address":"/news/find",
+"status":"正常"
+},
+{
+"id":"101108",
+"name":"分页查找",
+"createDate":"2017-11-3 21:26:50",
+"address":"/news/findByPage",
+"status":"正常"
+},
+{
+"id":"101109",
+"name":"单个新闻信息编辑",
+"createDate":"2017-11-3 21:27:49",
+"address":"/jsp/web/news/news.jsp",
+"status":"正常"
+},
+{
+"id":"101110",
+"name":"图片新闻编辑",
+"createDate":"2017-11-4 08:29:28",
+"address":"/jsp/web/news/imageNews.jsp",
+"status":"正常"
+},
+{
+"id":"101111",
+"name":"新闻审核管理",
+"createDate":"2017-11-5 10:57:22",
+"address":"/news/statusIndex",
+"status":"正常"
+},
+{
+"id":"101112",
+"name":"新闻状态变更",
+"createDate":"2017-11-5 12:13:31",
+"address":"/news/changeStatus",
+"status":"正常"
+},
+{
+"id":"110200",
+"name":"新闻分类信息管理",
+"createDate":"2017-10-16 17:20:35",
+"address":"无",
+"status":"正常"
+},
+{
+"id":"110201",
+"name":"新闻分类信息管理界面",
+"createDate":"2017-10-16 17:23:21",
+"address":"/newsCategory/index",
+"status":"正常"
+},
+{
+"id":"110202",
+"name":"新增",
+"createDate":"2017-10-16 17:24:19",
+"address":"/newsCategory/add",
+"status":"正常"
+},
+{
+"id":"110203",
+"name":"修改",
+"createDate":"2017-10-16 17:25:35",
+"address":"/newsCategory/edit",
+"status":"正常"
+},
+{
+"id":"110204",
+"name":"删除",
+"createDate":"2017-10-16 17:26:26",
+"address":"/newsCategory/del",
+"status":"正常"
+},
+{
+"id":"110205",
+"name":"批量删除",
+"createDate":"2017-10-16 17:27:06",
+"address":"/newsCategory/deleteAll",
+"status":"正常"
+},
+{
+"id":"110206",
+"name":"分页查找",
+"createDate":"2017-10-16 17:28:28",
+"address":"/newsCategory/findByPage",
+"status":"正常"
+},
+{
+"id":"110207",
+"name":"查找",
+"createDate":"2017-10-16 17:29:03",
+"address":"/newsCategory/findTree",
+"status":"正常"
+},
+{
+"id":"110208",
+"name":"新闻分类对象获取",
+"createDate":"2017-10-16 17:29:38",
+"address":"/newsCategory/getMe",
+"status":"正常"
+},
+{
+"id":"110209",
+"name":"新闻分类信息单个页面显示",
+"createDate":"2017-10-16 20:45:48",
+"address":"/jsp/web/newscategory/newscategory.jsp",
+"status":"正常"
+},
+{
+"id":"110210",
+"name":"查找",
+"createDate":"2017-11-3 22:00:16",
+"address":"/newsCategory/find",
+"status":"正常"
+},
+{
+"id":"110211",
+"name":"新闻分类数据查找",
+"createDate":"2017-11-20 16:58:16",
+"address":"/newsCategory/findForMap",
+"status":"正常"
+},
+{
+"id":"110300",
+"name":"广告管理",
+"createDate":"2017-10-16 21:03:38",
+"address":"无",
+"status":"正常"
+},
+{
+"id":"110301",
+"name":"发布广告",
+"createDate":"2017-10-16 22:18:05",
+"address":"/advertisement/add",
+"status":"正常"
+},
+{
+"id":"110302",
+"name":"广告修改",
+"createDate":"2017-10-16 22:18:50",
+"address":"/advertisement/edit",
+"status":"正常"
+},
+{
+"id":"110303",
+"name":"广告单个删除",
+"createDate":"2017-10-16 22:19:21",
+"address":"/advertisement/del",
+"status":"正常"
+},
+{
+"id":"110304",
+"name":"广告综合管理",
+"createDate":"2017-10-16 22:20:17",
+"address":"/advertisement/index",
+"status":"正常"
+},
+{
+"id":"110305",
+"name":"广告分页查找",
+"createDate":"2017-10-16 22:21:26",
+"address":"/advertisement/findByPage",
+"status":"正常"
+},
+{
+"id":"110306",
+"name":"广告批量删除",
+"createDate":"2017-10-16 22:22:06",
+"address":"/advertisement/deleteAll",
+"status":"正常"
+},
+{
+"id":"110307",
+"name":"单个广告获取",
+"createDate":"2017-10-16 22:22:49",
+"address":"/advertisement/getMe",
+"status":"正常"
+},
+{
+"id":"110308",
+"name":"单个广告界面操作",
+"createDate":"2017-10-16 22:23:54",
+"address":"/jsp/web/advertisement/advertisement.jsp",
+"status":"正常"
+}
+]
+}

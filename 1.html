@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>绘制叮当猫</title>
+	</head>
+	<body>
+		<div>
+			<canvas id="mycanvas" width="450" height="600"style="border: 1px solid black;"></canvas>
+			<script type="text/javascript">
+			var c=document.getElementById("mycanvas");
+			var ctx=c.getContext("2d");
+			ctx .font="30px 微软雅黑";
+			ctx.fillText("哆啦A梦",160,55)
+			ctx.moveTo(0,90);ctx.lineTo(450,90);
+			ctx.stroke();
+//			头部外圆
+             ctx.beginPath();
+             ctx.fillStyle="#00a0ea"
+             ctx.beginPath();ctx.arc(225,350,210,0.25*Math.PI,0.75*Math.PI,true);ctx.stroke()
+             ctx.fill()
+//            头部内圆
+            ctx.beginPath();
+             ctx.fillStyle="#FFFFFF"
+             ctx.beginPath();ctx.arc(225,370,180,0.25*Math.PI,0.75*Math.PI,true);ctx.stroke()
+             ctx.fill()
+//            左眼
+            ctx.beginPath();
+             ctx.fillStyle="#FFFFFF"
+             ctx.beginPath();ctx.arc(177,220,47,0*Math.PI,2*Math.PI,true);ctx.stroke()
+             ctx.fill()
+             ctx.beginPath();
+             ctx.beginPath();ctx.arc(177,220,15,0*Math.PI,1*Math.PI,true);ctx.stroke()
+//           右眼
+            ctx.beginPath();
+             ctx.fillStyle="#FFFFFF"
+             ctx.beginPath();ctx.arc(273,220,47,0*Math.PI,2*Math.PI,true);ctx.stroke()
+             ctx.fill()
+             ctx.beginPath();
+             ctx.beginPath();ctx.arc(273,220,15,0*Math.PI,1*Math.PI,true);ctx.stroke()
+//            鼻子
+            ctx.beginPath();
+             ctx.fillStyle="red"
+             ctx.beginPath();ctx.arc(225,280,30,0*Math.PI,2*Math.PI,true);ctx.stroke()
+             ctx.fill()
+             ctx.beginPath();
+             ctx.fillStyle="#FFFFFF"
+            ctx.beginPath();ctx.arc(225,280,15,0*Math.PI,2*Math.PI,true);
+             ctx.fill()
+//            左胡须
+            ctx.beginPath();
+            ctx.moveTo(170,310);ctx.lineTo(50,270);
+            ctx.stroke()
+             ctx.moveTo(170,345);ctx.lineTo(40,340);
+            ctx.stroke()
+             ctx.moveTo(170,380);ctx.lineTo(60,410);
+            ctx.stroke()
+//           右胡须
+            ctx.beginPath();
+            ctx.moveTo(280,310);ctx.lineTo(390,270);
+            ctx.stroke()
+             ctx.moveTo(280,345);ctx.lineTo(410,340);
+            ctx.stroke()
+             ctx.moveTo(280,380);ctx.lineTo(390,410);
+            ctx.stroke()
+//           嘴巴
+           ctx.beginPath();
+            ctx.moveTo(225,310);ctx.lineTo(225,420);
+            ctx.stroke()
+            ctx.beginPath();
+            ctx.arc(225,300,120,0.15*Math.PI,0.85*Math.PI)
+            ctx.stroke()
+//           项圈
+             ctx.beginPath();   
+             ctx.fillStyle="#ff0000"
+             ctx.fillRect(70,496,310,20)
+            ctx.strokeRect2(70,496,310,20)
+//           铃铛
+                ctx.beginPath();
+				ctx.fillStyle = "#FFFF00";
+				ctx.arc(225,515,30,0*Math.PI,2*Math.PI,false);
+				ctx.fill();
+				ctx.stroke();
+				ctx.beginPath();
+				ctx.fillStyle = "#000000";
+				ctx.arc(225,520,10,0,2*Math.PI,false);
+				ctx.fill();
+				ctx.stroke();
+				ctx.beginPath();
+				ctx.fillStyle = "#FFFF00";
+				ctx.fillRect(190, 496, 70, 10);
+				ctx.strokeRect(190, 496, 70, 10);
+				ctx.fill();
+				ctx.stroke();
+				ctx.moveTo(225, 510);
+				ctx.lineTo(225, 545);
+				ctx.stroke();	
+
+			</script>
+		</div>
+	</body>
+</html>
+
